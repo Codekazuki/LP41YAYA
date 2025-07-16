@@ -29,27 +29,12 @@
   padding: 20px 0;
 }
 
-/* Search/filter styles (if you add search functionality later) */
-.search-container {
-  margin: 20px 0;
-  display: flex;
-  justify-content: center;
-}
-
-.search-input {
-  padding: 10px 15px;
-  width: 100%;
-  max-width: 500px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  font-size: 1rem;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .main-content h1 {
     font-size: 2rem;
     margin: 20px 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
   }
 
   .card-list {
@@ -65,6 +50,7 @@
 
   .main-content h1 {
     font-size: 1.8rem;
+    font-family: Georgia, "Times New Roman", Times, serif;
   }
 
   .card-list {

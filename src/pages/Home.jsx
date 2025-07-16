@@ -9,7 +9,8 @@ const Home = () => {
     <div className='home'>
       <Navbar />
       <main className='main-content'>
-        <h1>Welcome to Our App</h1>
+        <h1>RCCG LP41 YAYA LEADERSHIP SUMMIT 2025</h1>
+        <h1>EFFECTIVE LEADERSHIP & STEWARDSHIP</h1>
         <CardList />
       </main>
       <Footer />

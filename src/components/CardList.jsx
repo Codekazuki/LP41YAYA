@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card";
-import "../styles/cardList.css";
+import "../styles/cardlist.css";
 import teamData from "../teamData";
 
 const CardList = () => {

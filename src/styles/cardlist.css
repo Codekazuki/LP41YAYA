@@ -30,11 +30,6 @@
   background-color: #2980b9;
 }
 
-.pagination-button:disabled {
-  background-color: #95a5a6;
-  cursor: not-allowed;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .card-list {

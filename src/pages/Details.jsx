@@ -36,7 +36,8 @@ const Details = () => {
           <div>
             <h2>{teamMember.name}</h2>
             <h3>{teamMember.title}</h3>
-            <p>{teamMember.description}</p>
+            <p dangerouslySetInnerHTML={{ __html: teamMember.description }} />
+            {/* <p>{teamMember.description}</p> */}
             <Link to='/' className='back-button'>
               Back to Home
             </Link>

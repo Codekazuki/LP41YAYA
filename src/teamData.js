@@ -2,7 +2,7 @@ import busuyi from "./assets/busuyi.jpeg";
 import ekpeyong from "./assets/ekpeyong.jpeg";
 import fela from "./assets/fela.jpeg";
 import wumi from "./assets/wumi.jpeg";
-import solanke from "./assets/solanke.jpeg"
+import solanke from "./assets/solanke.jpeg";
 import atumu from "./assets/atumu.jpeg";
 
 

@@ -52,7 +52,7 @@ const teamData = [
     name: "PASTOR VICTOR ATUMU",
     title: "LP41 PROVINCIAL YOUTH PASTOR",
     description:
-      "HELLO" },
+      "HELLO Testing" },
   
 ];
 

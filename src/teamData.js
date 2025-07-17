@@ -2,7 +2,7 @@ import busuyi from "./assets/busuyi.jpeg";
 import ekpeyong from "./assets/ekpeyong.jpeg";
 import fela from "./assets/fela.jpeg";
 import wumi from "./assets/wumi.jpeg";
-import olaoye from "./assets/olaoye.jpeg"
+import solanke from "./assets/solanke.jpeg"
 
 const teamData = [
   {
@@ -39,7 +39,7 @@ const teamData = [
   },
     {
     id: 5,
-    image: olaoye,
+    image: solanke,
     name: "PASTOR SOLANKE OLAOYE JOSEPH",
     title: "Assistant Provincial Youth Pastor (CSR), RCCG
 ",

@@ -9,7 +9,7 @@ const teamData = [
   {
     id: 1,
     image: ekpeyong,
-    name: "Pastor Duke Ekpenyong",
+    name: "Pastor Ekpenyong Duke",
     title: "TRINITY HOUSE",
     description:
       "Pastor Ekpenyong Duke is a seasoned leader with a remarkable track record of excellence across ministry, corporate leadership, and education. <br> </br> With over three decades of pastoral experience in the Redeemed Christian Church of God (RCCG)—where he pioneered and pastored several parishes from 1995 to 2015—Pastor Duke is a trusted teacher of the Word, counselor, and administrator. <br> </br>  He has also served as a lecturer for over 10 years at the School of Disciples and the Redeemers Bible College, where he helped shape spiritual leaders and disciples across Nigeria.A firm believer in the synergy of faith and leadership, Pastor Duke holds an Executive MBA from the Lagos Business School. <br> </br> His distinguished professional journey includes serving as:CEO of CG EKO LLP—a groundbreaking Public-Private Partnership between the Lagos State Government and Coscharis Group.Group Managing Director of the University of Lagos Holding Company Ltd, overseeing diverse commercial ventures. <br> </br> Currently, he is the Director of General Services at Carloha Nigeria Ltd, a growing force in the auto assembly industry. <br> </br> Today, Pastor Duke continues to serve in ministry as a pastor at Trinity House Church, bringing faith-based insight into leadership, purpose, and nation-building. He is happily married to Ibok Duke, and they are blessed with three children.",
